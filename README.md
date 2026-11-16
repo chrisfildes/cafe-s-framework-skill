@@ -62,7 +62,7 @@ The skill also:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamchrisfildes/cafe-s-framework-skill.git
+   git clone https://github.com/chrisfildes/cafe-s-framework-skill.git
    ```
 
 2. Link it into your personal skills folder:
